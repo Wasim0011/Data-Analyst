@@ -1,0 +1,6 @@
+vendor_performance_analysis/inventory.db
+vendor_performance_analysis/data/
+vendor_performance_analysis/.ipynb_checkpoints
+vendor_performance_analysis/logs/.ipynb_checkpoints
+vendor_performance_analysis/notebook/.ipynb_checkpoints
+vendor_performance_analysis/scripts/.ipynb_checkpoints
